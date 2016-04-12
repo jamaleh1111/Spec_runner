@@ -22,6 +22,5 @@ the raw string provided
 */
 var bridgeString1 = function(myInputString) {
   
-  return 'I wish I could code  in javascript all day, every day!';
-
+  return myInputString + 'I wish I could code  in javascript all day, every day!';
 };
